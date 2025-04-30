@@ -26,7 +26,7 @@ The dataset is a prepared version of the **CRCHistoPhenotypes** dataset.
 
 **Clone the repository**
 ```bash
-git clone https://github.com/krishnaik06/Kidney-Disease-Classification-Deep-Learning-Project
+git clone https://github.com/PYTHONrohit7/Colon-Cancer-Image-Classification.git
 ```
 ... *navigate into the cloned repository directory* ...
 
@@ -44,7 +44,7 @@ pip install -r requirements.txt
 ```
 **Note:**
 
-1.  I used the repository URL from the second image (`krishnaik06/Kidney-Disease-Classification-Deep-Learning-Project`).
+1.  I used the repository URL from the second image (`PYTHONrohit7/Colon-Cancer-Image-Classification.git`).
 2.  I added the `git clone` command, as just the URL isn't executable.
 3.  I added a placeholder comment about navigating into the directory, which is usually the next implicit step after cloning.
 4.  I kept the structure and commands exactly as shown in the second image otherwise.
