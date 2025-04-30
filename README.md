@@ -1,9 +1,6 @@
 # 🧬 Colon Cancer Image Classification
 
-This project is part of **COSC2673 Assignment 2** at RMIT University. It builds an end-to-end machine learning system to classify histopathology images of colon cells into:
-
-- **Cancerous vs Non-Cancerous** (binary classification)
-- **Cell Type** (e.g., fibroblast, epithelial, inflammatory) *(optional extension)*
+This project is part of **ICAIMLH** at online mode. It builds an end-to-end machine learning system to classify histopathology images of colon cells into:
 
 The dataset is a prepared version of the **CRCHistoPhenotypes** dataset.
 
