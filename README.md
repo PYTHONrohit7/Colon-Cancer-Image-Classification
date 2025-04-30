@@ -11,27 +11,40 @@ The dataset is a prepared version of the **CRCHistoPhenotypes** dataset.
 
 ## 📁 Project Structure
 
-. ├── mainData.csv # Label data for 60 patients ├── extraData.csv # Label data for 39 patients (isCancerous only) ├── images/ # Folder containing 27x27 RGB colon cell images ├── model_isCancerous.py # Python script for binary classification ├── README.md # Project documentation ├── requirements.txt # List of required packages
+├── mainData.csv # Label data for 60 patients
+
+├── extraData.csv # Label data for 39 patients (isCancerous only)
+
+├── images/ # Folder containing 27x27 RGB colon cell images
+
+├── model_isCancerous.py # Python script for binary classification
+
+├── README.md # Project documentation
+
+├── requirements.txt # List of required packages
 
 # How to Run
 
-### STEPS:
+## STEPS:
 
 **Clone the repository**
 ```bash
 git clone https://github.com/krishnaik06/Kidney-Disease-Classification-Deep-Learning-Project
-
-... navigate into the cloned repository directory ...
+```
+... *navigate into the cloned repository directory* ...
 
 # STEP 01- Create a conda environment after opening the repository
+```bash
 conda create -n cnncls python=3.8 -y
-
+```
+*Then activate evn *
+```bash
 conda activate cancer
-
+```
 # STEP STEP 02- install the requirements
-
+```bash
 pip install -r requirements.txt
-
+```
 **Note:**
 
 1.  I used the repository URL from the second image (`krishnaik06/Kidney-Disease-Classification-Deep-Learning-Project`).
